@@ -1,4 +1,4 @@
-# Class 7 Reading Notes 
+# Class 5 Reading Notes 
 
 Say goodybe to the few style template options from Github and hello to my new skills in CSS. No art skills required, just CSS Cheatsheeats and Google to get the layout that you want. 
 
