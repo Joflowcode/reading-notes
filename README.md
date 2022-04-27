@@ -22,3 +22,7 @@ I hope I do not have those moments and I sail through this course with no strugg
 2. Read favorite lines of my favorite inspirational or philopophy books.
   - Meditations by Marcus Aurelius, the Hayes modern translation
 3. This class has measureable assignments showing progress. If in doubt of my capabilities, and wonder if I could succeed as a black woman in a male dominated industry, look at the progress I made from day one. On day one I struggled with reconciling the differences with markup and html. In weeks time when I am working with JavaScript and more advanced coding, I can look back and go. "You did this. You can do this. You *will* do this." 
+
+[Class 1 Notes](Class1.md)
+[Class 2 Notes](Class2.md)
+[Class 3 Notes](Class3.md)
