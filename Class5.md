@@ -52,7 +52,7 @@ CSS properties and values are case-insensitive. The property and value in a prop
     
 	* Warning: In CSS (and other web standards), it has been agreed that US spelling is the standard where there is language variation or uncertainty. For example, colour should be spelled color, as colour will not work
 
-## hOW DOES CSS Actually Work:
+## How Does CSS Actually Work:
 From <https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_works> 
 
 1. The browser loads the HTML (e.g. receives it from the network).
