@@ -24,3 +24,7 @@ I'm the person that gets excited when chaos breaks out or in emergencies. I shou
 [Class 5 Notes](Class5.md)
 
 [Class 6 Notes](Class6.md)
+
+[Class 7 Notes](Class7.md)
+
+[Class 8 Notes](Class8.md)
