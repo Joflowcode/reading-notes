@@ -17,10 +17,13 @@ This bootcamp will be challenging. I'm sure someday I may raise my hand and curs
 I hope I do not have those moments and I sail through this course with no struggle or pain, or worries. But just in case....just in case I will record here three reminders to reflect back on when I need the boost. Nothing grows without nurturing. We are all at risk of a fixed mind-set without tending to our growth side.
 
 1. Read some inspiring quotes that remind me why I should have a growth mindset, and help foster the joy in keeping it.
+
 > Infinite games have no finish line and the goal is to keep the game going as long as possible - Simon Sinek
-2. Read favorite lines of my favorite inspirational or philopophy books.
-  - Meditations by Marcus Aurelius, the Hayes modern translation
-3. This class has measureable assignments showing progress. If in doubt of my capabilities, and wonder if I could succeed as a black woman in a male dominated industry, look at the progress I made from day one. On day one I struggled with reconciling the differences with markup and html. In weeks time when I am working with JavaScript and more advanced coding, I can look back and go:
+
+2.Read favorite lines of my favorite inspirational or philopophy books.
+>Meditations by Marcus Aurelius, the Hayes modern translation
+
+3.This class has measureable assignments showing progress. If in doubt of my capabilities, and wonder if I could succeed as a black woman in a male dominated industry, look at the progress I made from day one. On day one I struggled with reconciling the differences with markup and html. In weeks time when I am working with JavaScript and more advanced coding, I can look back and go:
 
 "You did this.
 
