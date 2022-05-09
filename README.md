@@ -9,7 +9,7 @@ I'm the person that gets excited when chaos breaks out or in emergencies. I shou
 
 ## Code 201 Reading Notes
 
-[Growth Mindset](Growthmindset.md) 
+[Growth Mindset](GrowthMindset.md) 
 
 [Class 1 Notes](201Class1.md)
 
