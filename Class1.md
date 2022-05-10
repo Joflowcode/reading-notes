@@ -1,4 +1,4 @@
-# Class 01 - Learning Markdown - Reading Notes
+# Class 01 - Learning Markdown - Reading Notes 
 
 After going over school policies and introductions, this course wastes no time and immediately dives into learning to code.
 
