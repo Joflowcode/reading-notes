@@ -39,7 +39,7 @@ I'm the person that gets excited when chaos breaks out or in emergencies. I shou
 
 [Class 14 Notes](201Class14.md)
 
-[Class 15 Notes](201Class15.md)
+[Class 14b Notes](201Class14b.md)
 
 ### Code 102 Reading Notes
 
