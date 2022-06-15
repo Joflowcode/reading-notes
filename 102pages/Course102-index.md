@@ -9,7 +9,7 @@ I'm the person that gets excited when chaos breaks out or in emergencies. I shou
 
 ## Table of Contents for Code Fellows Software Development 102 Reading Notes
 
-[Growth Mindset](Growthmindset.md)
+[Growth Mindset](/Growthmindset.md)
 
 [Class 1 Notes](Class1.md)
 
